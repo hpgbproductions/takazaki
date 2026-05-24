@@ -14,21 +14,21 @@ With a maximum gradient of 35‰ and a minimum corner radius of 80 m, the line w
 
 The station list is shown below:
 
-| | No. | JA | EN |
-|:---:|:---:|:--- |:--- |
-| ∨ | 13 | 高崎 | Takazaki |
+| | No. | JA | EN | |
+|:---:|:---:|:--- |:--- |:--- |
+| ∨ | 13 | 高崎 | Takazaki | Spawn point (rated maximum train length 100 m).
 | \| | 12 | 春池 | Haruchi |
 | \| | 11 | 滝川 | Takigawa |
-| ◇ | 10 | 羽沢 | Hanesawa |
-| \| | 09 | 金森 | Kanemori |
+| ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m).
+| \| | 09 | 金森 | Kanemori | Spawn point (80 m).
 | ◇ | 08 | 金森公園 | Kanemori-Kouen |
-| \| | 07 | 浮宮 | Ukimiya |
-| ◇ | 06 | 第一ダム | Yamagawako Dam No. 1 |
-| ◇ | 05 | 秋見台 | Akimidai |
+| \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m).
+| ◇ | 06 | 第一ダム | Yamagawako Dam No. 1 | Main location where trains in opposite directions pass.
+| ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m). Backup passing location.
 | \| | 04 | 中津 | Nakatsu |
 | \| | 03 | 岡町 | Okamachi |
 | \| | 02 | 東岡町 | Higashi-Okamachi |
-| ∧ | 01 | 海原 | Umihara |
+| ∧ | 01 | 海原 | Umihara | Spawn point (80 m).
 
 The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limit for freight trains is 65 km/h. The signal speed limits are shown in the following table.
 
