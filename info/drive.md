@@ -40,7 +40,7 @@ The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere
 | YY | 25 km/h |
 | R | 0 km/h |
 
-Stations on this line have single-track sections between them. Most of the stations are quite far apart, and in such cases, they are separated by one long main block, and multiple (usually 3) approach blocks on each end. Passenger trains are usually cleared in time with their scheduled passing of certain checkpoints.
+Stations on this line have single-track sections between them. Most of the stations are quite far apart, and in such cases, they are separated by one long main block, and multiple (usually 3) approach blocks on each end. Passenger trains are usually cleared in time with their scheduled passing of certain checkpoints. If a train is following another train, it may only receive clearance when it is separated from the leading train by at least one station.
 
 ### Rail and Train Construction
 
@@ -60,4 +60,4 @@ The following areas should be tested with your desired train before performing s
 
 - Sharpest corners at Kanemori-Kouen.
 - Sharp, fast corners with platforms at Nakatsu and No. 1 Dam.
-- Ascending speed on steep gradients like the Akimidai tunnel.
+- Climbing on steep gradients like the Akimidai tunnel.
