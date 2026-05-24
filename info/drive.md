@@ -14,9 +14,9 @@ With a maximum gradient of 35‰ and a minimum corner radius of 80 m, the line w
 
 The station list is shown below:
 
-| | No. | JA | EN | |
+| | No. | JA | EN | Remarks |
 |:---:|:---:|:--- |:--- |:--- |
-| ∨ | 13 | 高崎 | Takazaki | Spawn point (rated maximum train length 100 m).
+| ∨ | 13 | 高崎 | Takazaki | Spawn point (rated maximum train length 100 m). Has depot.
 | \| | 12 | 春池 | Haruchi |
 | \| | 11 | 滝川 | Takigawa |
 | ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m).
@@ -28,7 +28,7 @@ The station list is shown below:
 | \| | 04 | 中津 | Nakatsu |
 | \| | 03 | 岡町 | Okamachi |
 | \| | 02 | 東岡町 | Higashi-Okamachi |
-| ∧ | 01 | 海原 | Umihara | Spawn point (80 m).
+| ∧ | 01 | 海原 | Umihara | Spawn point (80 m). Has depot.
 
 The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limit for freight trains is 65 km/h. The signal speed limits are shown in the following table.
 
@@ -61,3 +61,5 @@ The following areas should be tested with your desired train before performing s
 - Sharpest corners at Kanemori-Kouen.
 - Sharp, fast corners with platforms at Nakatsu and No. 1 Dam.
 - Climbing on steep gradients like the Akimidai tunnel.
+
+Unfortunately, like on North Railway Hinoyama Line, only one combination of routes along the line is available.
