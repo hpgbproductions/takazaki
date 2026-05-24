@@ -42,5 +42,22 @@ The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere
 
 Stations on this line have single-track sections between them. Most of the stations are quite far apart, and in such cases, they are separated by one long main block, and multiple (usually 3) approach blocks on each end. Passenger trains are usually cleared in time with their scheduled passing of certain checkpoints.
 
-### Train Construction Tips
+### Rail and Train Construction
 
+The rails are constructed in sections, splitting at the beginnings and ends of track features like station platforms, bridges, and tunnels. The gaps are covered by invisible stretched cylinders, replacing the previously random bounces (as in old versions of North Railway Hinoyama Line) with gentler bumps. However, the bumps still present an obstacle that can derail a train. To combat this, the resizable wheels and flanges on bogies should be adjusted to improve the reliability of the train on joints. My recommendations are:
+
+- Wheels on the lead car should be just wide enough to prevent noticeable side-to-side deflection on straights and when entering corners.
+- Wheels on trailing cars should be narrower (e.g., 0.05 units towards centerline) to navigate corners.
+
+Work has also been done to help support more trains:
+
+- Testing with a multi-car train as they are more sensitive to defects than single cars.
+- Reduction of sharp vertical crests.
+- Movement curved station platforms further from the tracks.
+- Widening of track colliders at the tightest corners.
+
+The following areas should be tested with your desired train before performing scenarios:
+
+- Sharpest corners at Kanemori-Kouen.
+- Sharp, fast corners with platforms at Nakatsu and No. 1 Dam.
+- Ascending speed on steep gradients like the Akimidai tunnel.
