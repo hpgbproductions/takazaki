@@ -84,7 +84,7 @@ Afterwards, there is a long run with gentle corners. Slow down to 85 km/h for th
 
 ### Nakatsu
 
-Stop on the south side. The station speed limit is 55 km/h. Most of the station is on flat tracks, but the one-car stopping position remains on the uphill section (about 10‰).
+Stop on the south side. The station speed limit is 60 km/h. Most of the station is on flat tracks, but the one-car stopping position remains on the uphill section (about 10‰).
 
 Unless your train is very powerful, you can apply full power from the station while complying with the 70 km/h exit speed limit. This begins the long climb to Akimidai Station.
 
