@@ -1,4 +1,4 @@
-# Northbound Driving Walkthrough
+# Driving Walkthrough
 
 *...or drive-through?*
 
@@ -62,4 +62,60 @@ The following areas should be tested with your desired train before performing s
 - Sharp, fast corners with platforms at Nakatsu and No. 1 Dam.
 - Climbing on steep gradients like the Akimidai tunnel.
 
-Unfortunately, like on North Railway Hinoyama Line, only one combination of routes along the line is available.
+Due to the construction method, only one combination of routes along the line is available.
+
+## Driving Guide
+
+### Umihara
+
+Depart from Track 1 (the left track when driving in the northbound direction). The speed limit is 55 km/h for the first left-right sequence. If you are driving a heavy train, you will immediately feel the weight as there is no room to accelerate before the gradient increases to 20‰. Afterwards, the track begins to open up into the plains, with a speed limit of 65 to Higashi-Okamachi, the next station. The track suddenly drops from beneath you during the approach to Higashi-Okamachi, which makes stopping tricky.
+
+### Higashi-Okamachi
+
+This station has its stop targets on the north side.
+
+The speed limit is cleared once you pass this station, but there is no chance to accelerate to line speed. Use the descent after the station to gain speed, and the subsequent ascent to brake. The gradients are roughly 20‰.
+
+### Okamachi
+
+Stop on the south side. The station is built on a crest, and the gradient changes rapidly throughout the length of the station.
+
+Afterwards, there is a long run with gentle corners. Slow down to 85 km/h for the left-hander and climb along the side of the mountain. The gradient is 30‰. When you spot the approach signal lights, prepare to slow down as there is a speed limit reduction to 65 km/h, and the stop position will suddenly appear.
+
+### Nakatsu
+
+Stop on the south side. The station speed limit is 55 km/h. Most of the station is on flat tracks, but the one-car stopping position remains on the uphill section (about 10‰).
+
+Unless your train is very powerful, you can apply full power from the station while complying with the 70 km/h exit speed limit. This begins the long climb to Akimidai Station.
+
+The straight climb is 20‰ with a 75 km/h speed limit at the top for a right turn. You can travel at line speed before a gradual reduction to 85, 75, and 60 km/h.
+
+Climb 35‰ after the sharp left turn. The speed limit is 85 km/h, but most trains will not be able to reach this speed. When driving southwards, this part is downhill and the speed limit is only 75 km/h. This is the only asymmetric speed limit on the line except on the final approach to terminal stations.
+
+At the approach signals, the speed limit goes back down to 60 km/h, and the stop position quickly appears.
+
+### Akimidai
+
+Stop on the south side. The station is mostly flat and has a speed limit of 70 km/h. The north side has a 55 km/h Y-switch.
+
+Accelerate as quickly as you can for the 30‰ tunnel climb. However, the speed limit decreases as soon as you leave the tunnel. Slow down according to the speed limit signs and signals.
+
+### Yamagawako Dam No. 1
+
+Stop on the north side. The station is mostly flat and has a speed limit of 55 km/h.
+
+The following section can be taken at line speed, but the next station is easy to miss. Watch for a left turn with approach signals.
+
+### Ukimiya
+
+Stop in the middle.
+
+When departing, there is a long flat section along the side of the mountain. Be ready to brake when the left-turn bridge appears, as its speed limit is only 50 km/h.
+
+Get through the high-speed tunnel that bypasses the steep mountain faces. After this long tunnel ends, the speed limit decreases to 55 km/h near the next tunnel, which has a tower at its entrance. Continue at 55 in this tunnel, and apply the brakes when you see the sign for the next station, as the speed limit quickly drops to 30 km/h.
+
+### Kanemori-Kouen
+
+Stop at the north side. The gradient increases as you move up the station, up to 15‰ at the end.
+
+There is another 30 km/h corner when you depart from this station, then a steep descent to the next station under the sakura trees.
