@@ -78,11 +78,15 @@ The speed limit is cleared once you pass this station, but there is no chance to
 
 ### Okamachi
 
+This is a station that provides a bus transfer to the Nippon Railway main line.
+
 Stop on the south side. The station is built on a crest, and the gradient changes rapidly throughout the length of the station.
 
 Afterwards, there is a long run with gentle corners. Slow down to 85 km/h for the left-hander and climb along the side of the mountain. The gradient is 30‰. When you spot the approach signal lights, prepare to slow down as there is a speed limit reduction to 65 km/h, and the stop position will suddenly appear.
 
 ### Nakatsu
+
+A station with a viewing tower, from which the dam is visible.
 
 Stop on the south side. The station speed limit is 60 km/h. Most of the station is on flat tracks, but the one-car stopping position remains on the uphill section (about 10‰).
 
@@ -96,11 +100,15 @@ At the approach signals, the speed limit goes back down to 60 km/h, and the stop
 
 ### Akimidai
 
+The station is named after a century-old viewing spot that overlooks the coastal plains and river delta near Nakatsu.
+
 Stop on the south side. The station is mostly flat and has a speed limit of 70 km/h. The north side has a 55 km/h Y-switch.
 
-Accelerate as quickly as you can for the 30‰ tunnel climb. However, the speed limit decreases as soon as you leave the tunnel. Slow down according to the speed limit signs and signals.
+Accelerate as quickly as you can for the 30‰ tunnel climb, and hold that speed as long as you can. However, the speed limit decreases as soon as you leave the tunnel. Slow down according to the speed limit signs and signals.
 
 ### Yamagawako Dam No. 1
+
+This station acts as the main passing point for parts of the timetable where two trains pass each other.
 
 Stop on the north side. The station is mostly flat and has a speed limit of 55 km/h.
 
@@ -118,4 +126,38 @@ Get through the high-speed tunnel that bypasses the steep mountain faces. After 
 
 Stop at the north side. There is a moderate upwards slope of 8‰.
 
-There is another 30 km/h corner when you depart from this station, then a steep descent to the next station under the sakura trees.
+There is another 30 km/h corner when you depart from this station, then a steep descent of 25‰ to the next station under the sakura trees.
+
+### Kanemori
+
+This station used to be a side entrance to the research facility area.
+
+Stop in the middle.
+
+A long, moderately steep ascent of 10‰ awaits. At the top, a 60 km/h curved bridge makes a wide turn around a pointy hill. After the bridge, simply continue at 75 km/h. When you spot the approach signals, be careful as there is a moderate downward slope (17‰) into the station.
+
+### Hanezawa
+
+Stop at the south side.
+
+The exit speed limit is 55 km/h. There is a 70 right-hander into a 17‰ downhill straight. This is also the braking zone for the next station.
+
+### Takigawa
+
+Stop at the north side. The station area is a 10‰ downhill slope.
+
+A short run with gentle curves takes you to the next station.
+
+### Haruchi
+
+A station that provides access to a small pond and shrine. This is a lesser-known flower-viewing spot.
+
+Stop in the middle. There are many stop marker signs here, so be careful.
+
+A 20‰ climb takes the train to the final stop of this service.
+
+### Takazaki
+
+The northern terminus. There used to be tunnels into the research area, but they were damaged in an earthquake during the 90s and never repaired due to HAMEKA's gradual closure of the facility.
+
+Stop at the beginning of the platform. Use the speed limit signs to gauge how fast you should be entering.
