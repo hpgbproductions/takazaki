@@ -16,19 +16,19 @@ The station list is shown below:
 
 | | No. | JA | EN | Remarks |
 |:---:|:---:|:--- |:--- |:--- |
-| ∨ | 13 | 高崎 | Takazaki | Spawn point (rated maximum train length 100 m). Has depot.
+| ∨ | 13 | 高崎 | Takazaki | Spawn point (100 m trains). Has depot.
 | \| | 12 | 春池 | Haruchi |
 | \| | 11 | 滝川 | Takigawa |
-| ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m).
-| \| | 09 | 金森 | Kanemori | Spawn point (80 m).
+| ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m trains).
+| \| | 09 | 金森 | Kanemori | Spawn point (80 m trains).
 | ◇ | 08 | 金森公園 | Kanemori-Kouen |
-| \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m).
+| \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m trains).
 | ◇ | 06 | 第一ダム | Yamagawako Dam No. 1 | Main location where trains in opposite directions pass.
-| ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m). Backup passing location.
+| ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m trains). Backup passing location.
 | \| | 04 | 中津 | Nakatsu |
 | \| | 03 | 岡町 | Okamachi |
 | \| | 02 | 東岡町 | Higashi-Okamachi |
-| ∧ | 01 | 海原 | Umihara | Spawn point (80 m). Has depot.
+| ∧ | 01 | 海原 | Umihara | Spawn point (80 m trains). Has depot.
 
 The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limit for freight trains is 65 km/h. The signal speed limits are shown in the following table.
 
