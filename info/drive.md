@@ -64,6 +64,24 @@ The following areas should be tested with your desired train before performing s
 
 Due to the construction method, only one combination of routes along the line is available.
 
+## Service Types
+
+### Local
+
+For each direction, one morning scenario and one afternoon scenario are available. Each afternoon scenario is split into two sections following the separated line speeds. This gives a total of 6 levels.
+
+The morning scenarios use two-car trains, while the afternoon scenarios use one-car trains.
+
+### Express Freight
+
+One scenario is provided for each direction. There is a speed limit of 65 km/h regardless of the type or amount of freight being carried. The scenarios use three- or four-car trains.
+
+In each freight scenario, the train follows a local passenger train. Due to the operating procedures of train dispatching on this line, the clearance for the freight train is received in an irregular manner, which may require stopping at some stations. Despite this, the driving time of the freight train is shorter than that of local trains.
+
+### Spring Sprinter
+
+This is an express service that only runs during sakura season. It only stops at Umihara, Okamachi, Kanemori, Haruchi, and Takazaki. The timing is a bit more lenient than on local trains. Two-car trains are used.
+
 ## Driving Guide
 
 ### Umihara
