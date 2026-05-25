@@ -116,6 +116,6 @@ Get through the high-speed tunnel that bypasses the steep mountain faces. After 
 
 ### Kanemori-Kouen
 
-Stop at the north side. The gradient increases as you move up the station, up to 15‰ at the end.
+Stop at the north side. There is a moderate upwards slope of 8‰.
 
 There is another 30 km/h corner when you depart from this station, then a steep descent to the next station under the sakura trees.
