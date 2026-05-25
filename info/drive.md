@@ -8,7 +8,7 @@ This guide will cover general information and driving tips for the HAMEKA Takaza
 
 ### Line Information
 
-The HAMEKA Takazaki Line is a roughly 40 kilometer-long mountainous conventional rail line. It serves as a branch line that connects a biotechnology research facility and multiple villages to the national railway line. Along the way, it climbs more than 160 meters from the coastal plains to a lake formed by two dams.
+The HAMEKA Takazaki Line is a roughly 40 kilometer-long mountainous conventional rail line. It serves as a branch line that connects a biotechnology research facility and multiple villages to the national railway line. Along the way, it climbs more than 160 meters from the coastal plains to a lake formed by two dams. The population around the lake is about 500, and is mainly located at Takazaki, Kanemori, and Ukimiya.
 
 With a maximum gradient of 35‰ and a minimum corner radius of 80 m, the line will thoroughly test your train's engines, brakes, and frame. What it doesn't test, however, is memorization, since the line was deliberately designed to be easy to learn by using natural speed limit progressions and visual landmarks.
 
