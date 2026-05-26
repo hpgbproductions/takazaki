@@ -8,27 +8,27 @@ This guide will cover general information and driving tips for the HAMEKA Takaza
 
 ### Line Information
 
-The HAMEKA Takazaki Line is a roughly 40 kilometer-long mountainous conventional rail line. It serves as a branch line that connects a biotechnology research facility and multiple villages to the national railway line. Along the way, it climbs more than 160 meters from the coastal plains to a lake formed by two dams. The population around the lake is about 500, and is mainly located at Takazaki, Kanemori, and Ukimiya.
+The HAMEKA Takazaki Line is a roughly 30 kilometer-long mountainous conventional rail line. It serves as a branch line that connects a biotechnology research facility and multiple villages to the national railway line. Along the way, it climbs more than 160 meters from the coastal plains to a lake formed by two dams. The population around the lake is about 500, and is mainly located at Takazaki, Kanemori, and Ukimiya.
 
 With a maximum gradient of 35‰ and a minimum corner radius of 80 m, the line will thoroughly test your train's engines, brakes, and frame. What it doesn't test, however, is memorization, since the line was deliberately designed to be easy to learn by using natural speed limit progressions and visual landmarks.
 
 The station list is shown below:
 
-| | No. | JA | EN | Remarks |
-|:---:|:---:|:--- |:--- |:--- |
-| ∨ | 13 | 高崎 | Takazaki | Spawn point (100 m trains). Has depot.
-| \| | 12 | 春池 | Haruchi |
-| \| | 11 | 滝川 | Takigawa |
-| ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m trains).
-| \| | 09 | 金森 | Kanemori | Spawn point (80 m trains).
-| ◇ | 08 | 金森公園 | Kanemori-Kouen |
-| \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m trains).
-| ◇ | 06 | 第一ダム | Yamagawako Dam No. 1 | Main location where trains in opposite directions pass.
-| ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m trains). Backup passing location.
-| \| | 04 | 中津 | Nakatsu |
-| \| | 03 | 岡町 | Okamachi |
-| \| | 02 | 東岡町 | Higashi-Okamachi |
-| ∧ | 01 | 海原 | Umihara | Spawn point (80 m trains). Has depot.
+| km | | No. | JA | EN | Remarks |
+| ---:|:---:|:---:|:--- |:--- |:--- |
+| 29.4 | ∨ | 13 | 高崎 | Takazaki | Spawn point (100 m trains). Has depot.
+| 27.9 | \| | 12 | 春池 | Haruchi |
+| 27.1 | \| | 11 | 滝川 | Takigawa |
+| 26.0 | ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m trains).
+| 21.5 | \| | 09 | 金森 | Kanemori | Spawn point (80 m trains).
+| 20.8 | ◇ | 08 | 金森公園 | Kanemori-Kouen |
+| 15.0 | \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m trains).
+| 13.4 | ◇ | 06 | 第一ダム | Yamagawako Dam No. 1 | Main location where trains in opposite directions pass.
+| 11.3 | ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m trains). Backup passing location.
+| 5.3 | \| | 04 | 中津 | Nakatsu |
+| 2.4 | \| | 03 | 岡町 | Okamachi |
+| 1.5 | \| | 02 | 東岡町 | Higashi-Okamachi |
+| 0.0 | ∧ | 01 | 海原 | Umihara | Spawn point (80 m trains). Has depot.
 
 The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limit for freight trains is 65 km/h. The signal speed limits are shown in the following table.
 
