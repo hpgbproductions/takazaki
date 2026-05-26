@@ -23,7 +23,7 @@ The station list is shown below:
 | 21.5 | \| | 09 | 金森 | Kanemori | Spawn point (80 m trains).
 | 20.8 | ◇ | 08 | 金森公園 | Kanemori-Kouen |
 | 15.0 | \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m trains).
-| 13.4 | ◇ | 06 | 第一ダム | Yamagawako Dam No. 1 | Main location where trains in opposite directions pass.
+| 13.4 | ◇ | 06 | 第一ダム | Dam No. 1 | Main location where trains in opposite directions pass.
 | 11.3 | ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m trains). Backup passing location.
 | 5.3 | \| | 04 | 中津 | Nakatsu |
 | 2.4 | \| | 03 | 岡町 | Okamachi |
