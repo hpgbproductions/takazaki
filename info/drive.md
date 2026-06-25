@@ -20,25 +20,25 @@ The station list is shown below:
 | 27.9 | \| | 12 | 春池 | Haruchi |
 | 27.1 | \| | 11 | 滝川 | Takigawa |
 | 26.0 | ◇ | 10 | 羽沢 | Hanesawa | Spawn point (80 m trains).
-| 21.5 | \| | 09 | 金森 | Kanemori | Spawn point (80 m trains).
-| 20.8 | ◇ | 08 | 金森公園 | Kanemori-Kouen |
+| 21.5 | \| | 09 | 吉森 | Yoshimori | Spawn point (80 m trains).
+| 20.8 | ◇ | 08 | 吉森公園 | Yoshimori-Kouen |
 | 15.0 | \| | 07 | 浮宮 | Ukimiya | Spawn point (100 m trains).
 | 13.4 | ◇ | 06 | 第一ダム | Dam No. 1 | Main location where trains in opposite directions pass.
 | 11.3 | ◇ | 05 | 秋見台 | Akimidai | Spawn point (60 m trains). Backup passing location.
 | 5.3 | \| | 04 | 中津 | Nakatsu |
-| 2.4 | \| | 03 | 岡町 | Okamachi |
-| 1.5 | \| | 02 | 東岡町 | Higashi-Okamachi |
+| 2.4 | \| | 03 | 岡村 | Okamura |
+| 1.5 | \| | 02 | 東岡村 | Higashi-Okamura |
 | 0.0 | ∧ | 01 | 海原 | Umihara | Spawn point (80 m trains). Has depot.
 
-The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limit for freight trains is 65 km/h. The signal speed limits are shown in the following table.
+The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limits for freight trains are 75 km/h and 65 km/h. The signal speed limits are shown in the following table.
 
-| Aspect | Limit |
-|:---:|:---:|
-| G | Line speed |
-| YG | 75 km/h |
-| Y | 55 km/h |
-| YY | 25 km/h |
-| R | 0 km/h |
+| Aspect | Limit | Limit (freight trains) |
+|:---:|:---:|:---:|
+| G | Line speed | Freight train limit |
+| YG | 75 km/h | 65 km/h |
+| Y | 55 km/h | 45 km/h |
+| YY | 25 km/h | 25 km/h |
+| R | 0 km/h | 0 km/h |
 
 Stations on this line have single-track sections between them. Most of the stations are quite far apart, and in such cases, they are separated by one long main block, and multiple (usually 3) approach blocks on each end. Passenger trains are usually cleared in time with their scheduled passing of certain checkpoints. If a train is following another train, it may only receive clearance when it is separated from the leading train by at least one station.
 
@@ -88,13 +88,13 @@ This is an express service that only runs during sakura season. It only stops at
 
 Depart from Track 1 (the left track when driving in the northbound direction). The speed limit is 55 km/h for the first left-right sequence. If you are driving a heavy train, you will immediately feel the weight as there is no room to accelerate before the gradient increases to 20‰. Afterwards, the track begins to open up into the plains, with a speed limit of 65 to Higashi-Okamachi, the next station. The track suddenly drops from beneath you during the approach to Higashi-Okamachi, which makes stopping tricky.
 
-### Higashi-Okamachi
+### Higashi-Okamura
 
 This station has its stop targets on the north side.
 
 The speed limit is cleared once you pass this station, but there is no chance to accelerate to line speed. Use the descent after the station to gain speed, and the subsequent ascent to brake. The gradients are roughly 20‰.
 
-### Okamachi
+### Okamura
 
 This is a station that provides a bus transfer to the Nippon Railway main line.
 
@@ -136,17 +136,17 @@ The following section can be taken at line speed, but the next station is easy t
 
 Stop in the middle.
 
-When departing, there is a long flat section along the side of the mountain. Be ready to brake when the left-turn bridge appears, as its speed limit is only 50 km/h.
+When departing, there is a long flat section along the side of the mountain. Be ready to brake when the left-turn bridge appears, as its speed limit is only 50 km/h. You will know when it is approaching as there are some signal lights before it.
 
 Get through the high-speed tunnel that bypasses the steep mountain faces. After this long tunnel ends, the speed limit decreases to 55 km/h near the next tunnel, which has a tower at its entrance. Continue at 55 in this tunnel, and apply the brakes when you see the sign for the next station, as the speed limit quickly drops to 30 km/h.
 
-### Kanemori-Kouen
+### Yoshimori-Kouen
 
 Stop at the north side. There is a moderate upwards slope of 8‰.
 
 There is another 30 km/h corner when you depart from this station, then a steep descent of 25‰ to the next station under the sakura trees.
 
-### Kanemori
+### Yoshimori
 
 This station used to be a side entrance to the research facility area.
 
