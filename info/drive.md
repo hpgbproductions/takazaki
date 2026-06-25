@@ -32,9 +32,9 @@ The station list is shown below:
 
 The line speed limit is 95 km/h from Umihara to Akimidai, and 85 km/h everywhere else. The speed limits for freight trains are 75 km/h and 65 km/h. The signal speed limits are shown in the following table.
 
-| Aspect | Limit | Limit (freight trains) |
+| Aspect | Limit | Freight trains |
 |:---:|:---:|:---:|
-| G | Line speed | Freight train limit |
+| G | 85 or 95 km/h | 65 or 75 km/h |
 | YG | 75 km/h | 65 km/h |
 | Y | 55 km/h | 45 km/h |
 | YY | 25 km/h | 25 km/h |
