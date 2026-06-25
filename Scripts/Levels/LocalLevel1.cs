@@ -15,8 +15,8 @@ Local 1 car
 12:32:30 [12] Haruchi
 12:34:30 [11] Takigawa
 12:37:00 [10] Hanezawa
-12:42:00 [09] Kanemori
-12:44:00 [08] Kanemori Park
+12:42:00 [09] Yoshimori
+12:44:00 [08] Yoshimori Park
 12:50:30 [07] Ukimiya
 12:54:00 [06] No.1 Dam
 12:57:00 [05] Akimidai

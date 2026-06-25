@@ -13,8 +13,8 @@ public class LocalSouthbound2 : TrainLevelBase
 Local 1 car
 12:57:00 [05] Akimidai
 13:03:00 [04] Nakatsu
-13:06:30 [03] Okamachi
-13:08:30 [02] Higashi-Okamachi
+13:06:30 [03] Okamura
+13:08:30 [02] Higashi-Okamura
 13:11:00 [01] Umihara
 
 Duration: 14 minutes";

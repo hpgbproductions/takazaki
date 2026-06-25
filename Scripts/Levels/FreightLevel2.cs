@@ -8,7 +8,7 @@ public class ExpressFreight2 : TrainLevelBase
     public static readonly string Name = "HTL - Express Freight 2";
     public static readonly string LevelMap = "HAMEKA Takazaki Line";
     public static readonly string LevelDescription =
-@"Carry as much cargo as you can with a train of up to four cars. The speed limit is 65 km/h.
+@"Carry as much cargo as you can with a train of up to four cars. The speed limit is 65 km/h, increasing to 75 km/h past Akimidai.
 
 In this scenario, the freight train trails behind a local passenger train. There is a technical stop at No. 1 Dam to check the brakes on your train. For the long downhill run after that station, use your engine brake or dynamic brake, if available on your train.
 
@@ -19,13 +19,13 @@ Freight 4 cars
 ...
 11:42:30 [10] Hanezawa
 ...
-11:51:00 [08] Kanemori-Kouen
+11:51:00 [08] Yoshimori-Kouen
 11:54:30 [07] Ukimiya
 12:02:00 [06] No.1 Dam
 ...
 12:07:00 [04] Nakatsu
 ...
-12:11:30 [02] Higashi-Okamachi
+12:11:30 [02] Higashi-Okamura
 12:18:00 [01] Umihara
 (Latest arrival 12:25:00)
 
@@ -181,13 +181,13 @@ Duration: 38 minutes";
 
                 new SignalSettings(Seconds(11, 39, 59.6f), SignalScript.Aspects.G, "southbound_lake/Takazaki depart 2"),
                 new SignalSettings(Seconds(11, 40, 00), SignalScript.Aspects.G, "southbound_lake/Takazaki exit"),
-                new SignalSettings(Seconds(11, 42, 15), SignalScript.Aspects.G, "southbound_lake/Hanezawa depart 2"),
-                new SignalSettings(Seconds(11, 50, 45), SignalScript.Aspects.G, "southbound_lake/Kanemori-Kouen depart 1"),
-                new SignalSettings(Seconds(11, 54, 15), SignalScript.Aspects.G, "southbound_lake/Ukimiya depart"),
+                new SignalSettings(Seconds(11, 42, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "southbound_lake/Hanezawa depart 2"),
+                new SignalSettings(Seconds(11, 50, 40) + Random.Range(0f, 10f), SignalScript.Aspects.G, "southbound_lake/Kanemori-Kouen depart 1"),
+                new SignalSettings(Seconds(11, 54, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "southbound_lake/Ukimiya depart"),
                 new SignalSettings(Seconds(12, 01, 59), SignalScript.Aspects.G, "southbound_lake/Dam depart 1"),
                 new SignalSettings(Seconds(12, 01, 59.5f), SignalScript.Aspects.G, "southbound_lake/Akimidai approach 3"),
 
-                new SignalSettings(Seconds(12, 06, 47), SignalScript.Aspects.G, "southbound_plains/Nakatsu depart"),
+                new SignalSettings(Seconds(12, 06, 42) + Random.Range(0f, 10f), SignalScript.Aspects.G, "southbound_plains/Nakatsu depart"),
                 new SignalSettings(Seconds(12, 11, 15), SignalScript.Aspects.G, "southbound_plains/Higashi-Okamachi depart"),
                 new SignalSettings(Seconds(12, 11, 15.5f), SignalScript.Aspects.G, "southbound_plains/Umihara approach 3"),
             };

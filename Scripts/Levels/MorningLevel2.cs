@@ -8,21 +8,21 @@ public class LocalMorning2 : TrainLevelBase
     public static readonly string Name = "HTL - Local Morning 2";
     public static readonly string LevelMap = "HAMEKA Takazaki Line";
     public static readonly string LevelDescription =
-@"Southbound commuter train. The Okamachi area provides transfers to the Nippon Railway main line, so punctuality is critical.
+@"Southbound commuter train. The Okamura area provides transfers to the Nippon Railway main line, so punctuality is critical.
 
 Local 2 cars
 06:00:00 [13] Takazaki
 06:02:30 [12] Haruchi
 06:04:30 [11] Takigawa
 06:07:00 [10] Hanezawa
-06:12:00 [09] Kanemori
-06:14:00 [08] Kanemori Park
+06:12:00 [09] Yoshimori
+06:14:00 [08] Yoshimori Park
 06:20:30 [07] Ukimiya
 06:24:00 [06] No.1 Dam
 06:27:00 [05] Akimidai
 06:33:00 [04] Nakatsu
-06:36:30 [03] Okamachi
-06:38:30 [02] Higashi-Okamachi
+06:36:30 [03] Okamura
+06:38:30 [02] Higashi-Okamura
 06:41:00 [01] Umihara
 
 Duration: 41 minutes";

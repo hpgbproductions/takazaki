@@ -15,11 +15,11 @@ The Spring Sprinter is a seasonal express service. It operates the same multiple
 Express 2 cars
 09:38:00 [01] Umihara
 ...
-09:43:00 [03] Okamachi
+09:43:00 [03] Okamura
 ...
 09:53:00 [06] No.1 Dam (pass)
 ...
-10:03:00 [09] Kanemori
+10:03:00 [09] Yoshimori
 ...
 10:11:00 [12] Haruchi
 10:14:00 [13] Takazaki

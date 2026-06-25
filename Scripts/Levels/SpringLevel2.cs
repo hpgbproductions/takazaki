@@ -16,11 +16,11 @@ Express 2 cars
 10:33:00 [13] Takazaki
 10:37:00 [12] Haruchi
 ...
-10:45:00 [09] Kanemori
+10:45:00 [09] Yoshimori
 ...
 10:53:00 [06] No.1 Dam (pass)
 ...
-11:04:00 [03] Okamachi
+11:04:00 [03] Okamura
 ...
 11:08:00 [01] Umihara
 

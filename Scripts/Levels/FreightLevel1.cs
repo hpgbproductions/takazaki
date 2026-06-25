@@ -8,7 +8,7 @@ public class ExpressFreight1 : TrainLevelBase
     public static readonly string Name = "HTL - Express Freight 1";
     public static readonly string LevelMap = "HAMEKA Takazaki Line";
     public static readonly string LevelDescription =
-@"Carry as much cargo as you can with a train of up to four cars. The speed limit is 65 km/h.
+@"Carry as much cargo as you can with a train of up to four cars. The speed limit is 75 km/h, reducing to 65 km/h past Akimidai.
 
 In this scenario, the freight train trails behind a local passenger train. You may pass all intermediate stations if signals permit.
 
@@ -24,7 +24,7 @@ Freight 4 cars
 10:57:00 [06] No.1 Dam
 11:03:30 [07] Ukimiya
 ...
-11:10:30 [09] Kanemori
+11:10:30 [09] Yoshimori
 11:15:30 [10] Hanezawa
 ...
 11:17:45 [12] Haruchi
@@ -167,14 +167,14 @@ Duration: 36 minutes";
                 new SignalSettings(Seconds(00, 00, 00), SignalScript.Aspects.R, "northbound_lake/Haruchi depart"),
 
                 new SignalSettings(Seconds(10, 45, 00), SignalScript.Aspects.G, "northbound_plains/Umihara depart 1"),
-                new SignalSettings(Seconds(10, 50, 15), SignalScript.Aspects.G, "northbound_plains/Nakatsu depart"),
-                new SignalSettings(Seconds(10, 54, 15), SignalScript.Aspects.G, "northbound_plains/Akimidai depart 2"),
-                new SignalSettings(Seconds(10, 56, 45), SignalScript.Aspects.G, "northbound_lake/Dam depart 1"),
-                new SignalSettings(Seconds(11, 03, 15), SignalScript.Aspects.G, "northbound_lake/Ukimiya depart"),
+                new SignalSettings(Seconds(10, 50, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_plains/Nakatsu depart"),
+                new SignalSettings(Seconds(10, 54, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_plains/Akimidai depart 2"),
+                new SignalSettings(Seconds(10, 56, 40) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_lake/Dam depart 1"),
+                new SignalSettings(Seconds(11, 03, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_lake/Ukimiya depart"),
 
-                new SignalSettings(Seconds(11, 10, 15), SignalScript.Aspects.G, "northbound_lake/Kanemori depart"),
-                new SignalSettings(Seconds(11, 15, 15), SignalScript.Aspects.G, "northbound_lake/Hanezawa depart 2"),
-                new SignalSettings(Seconds(11, 17, 30), SignalScript.Aspects.G, "northbound_lake/Haruchi depart"),
+                new SignalSettings(Seconds(11, 10, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_lake/Kanemori depart"),
+                new SignalSettings(Seconds(11, 15, 10) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_lake/Hanezawa depart 2"),
+                new SignalSettings(Seconds(11, 17, 25) + Random.Range(0f, 10f), SignalScript.Aspects.G, "northbound_lake/Haruchi depart"),
             };
         }
     }

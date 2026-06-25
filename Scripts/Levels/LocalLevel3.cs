@@ -12,8 +12,8 @@ public class LocalNorthbound1 : TrainLevelBase
 
 Local 1 car
 12:35:00 [01] Umihara
-12:38:00 [02] Higashi-Okamachi
-12:40:00 [03] Okamachi
+12:38:00 [02] Higashi-Okamura
+12:40:00 [03] Okamura
 12:43:30 [04] Nakatsu
 12:49:30 [05] Akimidai
 

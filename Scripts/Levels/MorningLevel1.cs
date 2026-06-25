@@ -12,14 +12,14 @@ public class LocalMorning1 : TrainLevelBase
 
 Local 2 cars
 05:05:00 [01] Umihara
-05:08:00 [02] Higashi-Okamachi
-05:10:00 [03] Okamachi
+05:08:00 [02] Higashi-Okamura
+05:10:00 [03] Okamura
 05:13:30 [04] Nakatsu
 05:20:00 [05] Akimidai
 05:24:00 [06] No.1 Dam
 05:26:30 [07] Ukimiya
-05:33:00 [08] Kanemori-Kouen
-05:35:00 [09] Kanemori
+05:33:00 [08] Yoshimori-Kouen
+05:35:00 [09] Yoshimori
 05:40:00 [10] Hanezawa
 05:42:30 [11] Takigawa
 05:44:30 [12] Haruchi
